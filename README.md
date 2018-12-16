@@ -8,3 +8,6 @@ Create my first repository: [redThing](https://github.com/QinnanLin/AliceUnitySt
 I love teletubbies!
 
 I'm hungry. Need noodles NOW.
+
+1. 2018年12月15日
+我做了一个UNITY里面多米诺打红东西的场景
